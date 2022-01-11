@@ -1,2 +1,2 @@
-# Practica_24h_a_day
+# A good practice
  
